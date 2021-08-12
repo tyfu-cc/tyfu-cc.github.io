@@ -1,0 +1,43 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 16px;
+    border: 1px solid black;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+}
+
+header nav {
+    padding: 1rem 2rem;
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+header nav li {
+    margin-left: 2rem;
+}
+
+header nav a {
+    font-size: 1.125rem;
+    text-decoration: none;
+    color:  lightslategray;
+}
+
+div h2 {
+    text-align: center;
+    color: lightslategray;
+}

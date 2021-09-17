@@ -9,7 +9,8 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     font-size: 16px;
-    border: 1px solid black;
+    font-family: monospace;
+    /* border: 1px solid black; */
 }
 
 header {
@@ -37,7 +38,61 @@ header nav a {
     color:  lightslategray;
 }
 
-div h2 {
+.profile {
+    margin: 1rem 0;
+}
+
+.profile h2 {
     text-align: center;
     color: lightslategray;
+}
+
+.avatar-container {
+    display: block;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#avatar {
+    width: 80px;
+    border-radius: 50%;
+}
+
+.posts {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 0 20px;
+}
+
+.posts li {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.posts li a {
+    width: 70%;
+    text-decoration: none;
+    color: black;
+}
+
+.posts li a:hover {
+    color: lightslategray;
+}
+
+.dates {
+    color: gray;
+}
+
+.about {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 0 20px;
+}
+
+.about p {
+    text-align: left;
 }

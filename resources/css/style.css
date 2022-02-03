@@ -1,98 +1,98 @@
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 body {
-    max-width: 1200px;
-    margin: 0 auto;
-    font-size: 16px;
-    font-family: monospace;
-    /* border: 1px solid black; */
+	max-width: 1200px;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: monospace;
+	/* border: 1px solid black; */
 }
 
 header {
-    display: flex;
-    justify-content: flex-end;
+	display: flex;
+	justify-content: flex-end;
 }
 
 header nav {
-    padding: 1rem 2rem;
+	padding: 1rem 2rem;
 }
 
 header nav ul {
-    display: flex;
-    align-items: center;
-    list-style: none;
+	display: flex;
+	align-items: center;
+	list-style: none;
 }
 
 header nav li {
-    margin-left: 2rem;
+	margin-left: 2rem;
 }
 
 header nav a {
-    font-size: 1.125rem;
-    text-decoration: none;
-    color:  lightslategray;
+	font-size: 1.125rem;
+	text-decoration: none;
+	color:  lightslategray;
 }
 
 .profile {
-    margin: 1rem 0;
+	margin: 1rem 0;
 }
 
 .profile h2 {
-    text-align: center;
-    color: lightslategray;
+	text-align: center;
+	color: lightslategray;
 }
 
 .avatar-container {
-    display: block;
-    text-align: center;
-    margin-bottom: 1rem;
+	display: block;
+	text-align: center;
+	margin-bottom: 1rem;
 }
 
 #avatar {
-    width: 80px;
-    border-radius: 50%;
+	width: 80px;
+	border-radius: 50%;
 }
 
 .posts {
-    max-width: 800px;
-    margin: 0 auto;
-    margin-top: 60px;
-    padding: 0 20px;
+	max-width: 800px;
+	margin: 0 auto;
+	margin-top: 60px;
+	padding: 0 20px;
 }
 
 .posts li {
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-    margin-bottom: 30px;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	margin-bottom: 30px;
 }
 
 .posts li a {
-    width: 70%;
-    text-decoration: none;
-    color: black;
+	width: 70%;
+	text-decoration: none;
+	color: black;
 }
 
 .posts li a:hover {
-    color: lightslategray;
+	color: lightslategray;
 }
 
 .dates {
-    color: gray;
+	color: gray;
 }
 
 .about {
-    max-width: 600px;
-    margin: 0 auto;
-    margin-top: 60px;
-    padding: 0 20px;
+	max-width: 600px;
+	margin: 0 auto;
+	margin-top: 60px;
+	padding: 0 20px;
 }
 
 .about p {
-    text-align: left;
+	text-align: left;
 }

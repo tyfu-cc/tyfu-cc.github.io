@@ -3,38 +3,22 @@ body {
   margin: auto;
   padding: 1em;
   line-height: 1.5;
-  color: rgba(0, 0, 0, 0.8);
-}
-
-body a {
-  color: rgba(0, 0, 0, 0.8);
-}
-
-body a:hover {
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.5);
 }
 
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
 .article-meta, .menu a {
-  text-decoration: none;
-  color: rgba(0, 0, 0, 0.6);
+  text-decoration: underline;
   padding: 5px;
   border-radius: 5px;
-}
-.article-meta, .menu a:hover {
-  color: rgba(0, 0, 0, 1);
 }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
-  border: none;
-  height: 1px;
-  color: rgba(0, 0, 0, 0.1);
-  background-color: rgba(0, 0, 0, 0.1);
+  border-style: dashed;
+  color: #ddd;
 }
 
 /* code */

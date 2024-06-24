@@ -18,17 +18,23 @@ body a:hover {
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
-.article-meta, .menu a {
+.menu a {
   text-decoration: none;
   color: rgba(0, 0, 0, 0.6);
   padding: 5px;
-  border-radius: 5px;
 }
-.article-meta, .menu a:hover {
+.menu a:hover {
   color: rgba(0, 0, 0, 1);
 }
-.menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
+.menu, footer { text-align: center; }
+
+.article-meta { 
+  text-align: left; 
+  color: rgba(0, 0, 0, 0.8);
+}
+.title { 
+  font-size: 1em;
+}
 footer a { text-decoration: none; }
 hr {
   border: none;

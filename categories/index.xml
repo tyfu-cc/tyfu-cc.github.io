@@ -6,8 +6,15 @@
     <description>Recent content in Categories on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tyfu-cc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://tyfu-cc.github.io/categories/test/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://tyfu-cc.github.io/categories/test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>R</title>
       <link>https://tyfu-cc.github.io/categories/r/</link>

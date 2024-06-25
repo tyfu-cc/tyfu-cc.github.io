@@ -32,9 +32,17 @@ body a:hover {
   text-align: left; 
   color: rgba(0, 0, 0, 0.8);
 }
-.title { 
-  font-size: 1em;
+
+.article-meta h1 { 
+  font-size: 2em;
+  margin-bottom: 0px;
 }
+
+.article-meta h2 { 
+  font-size: 0.9em;
+  margin: 0px;
+}
+
 footer a { text-decoration: none; }
 hr {
   border: none;

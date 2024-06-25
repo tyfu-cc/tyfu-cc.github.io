@@ -6,36 +6,8 @@
     <description>Recent content in Tags on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tyfu-cc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://tyfu-cc.github.io/tags/test/</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://tyfu-cc.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>plot</title>
-      <link>https://tyfu-cc.github.io/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://tyfu-cc.github.io/tags/plot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R Markdown</title>
-      <link>https://tyfu-cc.github.io/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://tyfu-cc.github.io/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>regression</title>
-      <link>https://tyfu-cc.github.io/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://tyfu-cc.github.io/tags/regression/</guid>
-      <description></description>
-    </item>
     <item>
       <title>blogdown</title>
       <link>https://tyfu-cc.github.io/tags/blogdown/</link>

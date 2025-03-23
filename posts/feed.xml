@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Tianyi Fu</title>
+	<link href="https://tyfu-cc.github.io/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tyfu-cc.github.io/posts/"/>
+	<updated>2025-03-23T00:00:00+00:00</updated>
+	<id>https://tyfu-cc.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Testing Post</title>
+		<published>2025-03-23T00:00:00+00:00</published>
+		<updated>2025-03-23T00:00:00+00:00</updated>
+		<link href="https://tyfu-cc.github.io/posts/first/" type="text/html"/>
+		<id>https://tyfu-cc.github.io/posts/first/</id>
+		<content type="html">&lt;p&gt;This is a testing post.&lt;&#x2F;p&gt;
+&lt;p&gt;$$\mathbf{y} = \mathbf{X}\boldsymbol{\beta}$$&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

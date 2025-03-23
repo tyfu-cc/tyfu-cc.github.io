@@ -12,4 +12,4 @@ math = true
 
 This is a testing post.
 
-$$\beta$$.
+$$\mathbf{y} = \mathbf{X}\boldsymbol{\beta}$$

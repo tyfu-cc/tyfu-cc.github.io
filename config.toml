@@ -5,9 +5,9 @@
 #
 #=========================================================================================
 
-base_url = "https://example.com"
+base_url = "https://tyfu-cc.github.io"
 title = "Tianyi Fu"
-description = "xxxx xxxx xxxx"
+# description = "xxxx xxxx xxxx"
 default_language = "en"
 theme = "serene"
 output_dir = "public"

@@ -13,6 +13,7 @@ name = "Tianyi Fu"
 # bio = "programmer, he/him, we are young and life is fun"
 # avatar = "img/avatar.webp"
 links = [
+    { name = "GitHub", icon = "github", url = "https://github.com/tyfu-cc" },
     { name = "Email", icon = "email", url = "mailto:ty.fu@icloud.com" },
 ]
 

@@ -10,20 +10,17 @@ generate_feeds = true
 [extra]
 lang = "en"
 
-title = "Posts"
+title = "Notes"
 # subtitle = "I write about ...."
 
 date_format = "%b %-d, %Y"
 
-# Posts can be categorized
-categorized = true 
-back_to_top = true # show back-to-top button
-# Show table-of-contents
-toc = true
-# Enable comment
-comment = false
-# Show copy button in code block
-copy = true 
+categorized = true # Posts can be categorized
+back_to_top = true # Show back-to-top button
+
+toc = true         # Show table-of-contents
+comment = false    # Enable comment
+copy = true        # Show copy button in code block
 
 outdate_alert = false
 outdate_alert_days = 12

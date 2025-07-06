@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Tianyi Fu</title>
+	<link href="https://tyfu-cc.github.io/posts/feed.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://tyfu-cc.github.io/posts/"/>
+	<updated>2025-03-23T00:00:00+00:00</updated>
+	<id>https://tyfu-cc.github.io/posts/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Testing Post</title>
+		<published>2025-03-23T00:00:00+00:00</published>
+		<updated>2025-03-23T00:00:00+00:00</updated>
+		<link href="https://tyfu-cc.github.io/posts/first/" type="text/html"/>
+		<id>https://tyfu-cc.github.io/posts/first/</id>
+		<content type="html">&lt;p&gt;This is a testing post.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;heading-level-1&quot;&gt;Heading level 1&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-level-1&quot; aria-label=&quot;Anchor link for: heading-level-1&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h1&gt;
+&lt;p&gt;The spacing between headings is not great.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;heading-level-2&quot;&gt;Heading level 2&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-level-2&quot; aria-label=&quot;Anchor link for: heading-level-2&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h2&gt;
+&lt;p&gt;Something&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;heading-level-3&quot;&gt;Heading level 3&lt;a class=&quot;zola-anchor&quot; href=&quot;#heading-level-3&quot; aria-label=&quot;Anchor link for: heading-level-3&quot; style=&quot;visibility: hidden;&quot;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;h3&gt;
+&lt;p&gt;Some other things&lt;&#x2F;p&gt;
+&lt;p&gt;$$\mathbf{y} = \mathbf{X}\boldsymbol{\beta}$$&lt;&#x2F;p&gt;
+&lt;!-- comments --&gt;
+</content>
+	</entry>
+</feed>
